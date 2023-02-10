@@ -8,7 +8,7 @@ int main(){
   printf("max = %d\n", max);
   for(auto var : data)
   {
-    printf("%d \n", vag);
+    printf("--->>> %d \n", vag);
   }
   return 0;
 }
